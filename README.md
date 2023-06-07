@@ -35,7 +35,7 @@
 
 `kubectl get po      `
 
-`kubectl exec webapp -it -- /bin/sh`    
+`kubectl exec nextjs-app -it -- /bin/sh`    
 
 `minikube service nextjs-app --url`
 
